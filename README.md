@@ -6,7 +6,9 @@
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8292261782136624/4474963763662469/7961971166860712/latest.html
 
 
-_________________ESERCIZIO 2 -WORKSHOP PYTHON------------------------------------------------------------------_________________________
+_________________ESERCIZIO 2 -WORKSHOP PYTHON_________________________
+
+
 Benvenuti al Workshop di [Data Masters](https://datamasters.it) organizzato insieme a [Puglia Women Lead](https://www.instagram.com/pugliawomenlead)! Il workshop pensato per introdurre neofiti e appassionati al linguaggio di programmazione Python.
 
 ## Get Started
