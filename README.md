@@ -1,5 +1,12 @@
-![PyCon 2022 Banner](./banner.png)
+![image](https://user-images.githubusercontent.com/79009772/210550000-d215307e-ff11-47ae-bfd5-099a982bd060.png)
 
+
+-------------------ESERCIZIO 1------
+-ANALISI DATI - LABORATORIO
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8292261782136624/4474963763662469/7961971166860712/latest.html
+
+
+_________________ESERCIZIO 2 -WORKSHOP PYTHON------------------------------------------------------------------_________________________
 Benvenuti al Workshop di [Data Masters](https://datamasters.it) organizzato insieme a [Puglia Women Lead](https://www.instagram.com/pugliawomenlead)! Il workshop pensato per introdurre neofiti e appassionati al linguaggio di programmazione Python.
 
 ## Get Started
