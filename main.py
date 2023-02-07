@@ -1,9 +1,9 @@
 from configparser import ConfigParser
 
 def config(filename="database.ini", section="postgresql"):
-    #create parsen 
     
-    parsen = ConfigParser()
+#create parsen 
+parsen = ConfigParser()
 parsen.read(filename)
 
 #itero sul nome del file e restituisco ogni elemento all'interno di qsto quindi creo un dizionario vuoto
