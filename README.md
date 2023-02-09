@@ -9,10 +9,10 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 https://github.com/Elenacola/analisi_data/blob/main/Data_Analytics_autovetture%20Milano_video%20esercitazione%20Boolean%20.ipynb
 
 
+
 _________________ESERCIZIO 2 -WORKSHOP PYTHON_________________________
 
-
-Benvenuti al Workshop di [Data Masters](https://datamasters.it) organizzato insieme a [Puglia Women Lead](https://www.instagram.com/pugliawomenlead)! Il workshop pensato per introdurre neofiti e appassionati al linguaggio di programmazione Python.
+Workshop di [Data Masters](https://datamasters.it) organizzato insieme a [Puglia Women Lead](https://www.instagram.com/pugliawomenlead)! Il workshop pensato per introdurre neofiti e appassionati al linguaggio di programmazione Python.
 
 ## Get Started
 
@@ -63,9 +63,9 @@ Ogni `Pokémon` nel nosto insieme di dati sarà rappresentato dalle seguenti car
 Obiettivo dell'algoritmo è quello di confrontare il valore di ciascuna di queste caratteristiche, e restituire i `k` pokémon _maggiormente simili_ (i.e. alternativamente, a minore distanza), dati i paramentri della _query di ricerca_.
 
 🧑‍💻 **Happy coding!** 👩‍💻
+_________________________________________________________________________________
 
-#### Strumenti
-
-Il codice sviluppato durante il workshop non farà uso di alcuno strumento o software di terze parti che non sia direttamente incluso nell'installazione del linguaggio Python.
+-----------ESERCIZIO 1.3----CLASSE DI FREECODECAMP----
+https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/Lecture_1.ipynb
 
 [↑ Back to top](#table-of-content)
