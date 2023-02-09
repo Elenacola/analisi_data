@@ -5,6 +5,9 @@
 -ANALISI DATI - LABORATORIO
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8292261782136624/4474963763662469/7961971166860712/latest.html
 
+----------------ESERCIZIO 1.2---------------
+https://github.com/Elenacola/analisi_data/blob/main/Data_Analytics_autovetture%20Milano_video%20esercitazione%20Boolean%20.ipynb
+
 
 _________________ESERCIZIO 2 -WORKSHOP PYTHON_________________________
 
